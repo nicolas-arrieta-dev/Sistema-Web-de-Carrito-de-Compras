@@ -1,0 +1,70 @@
+﻿@model List<CapaEntidad.DetalleVenta>
+@{
+    ViewBag.Title = "MisCompras";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+
+    <div class="row">
+        <div class="col-sm-12">
+            @{
+                if (Model != null && Model.Count > 0)
+                {
+                    foreach (var item in Model)
+                    {
+                        <div class="row mb-4">
+                            <div class="col-sm-12">
+                                <div class="card shadow-sm border-0">
+                                    <div class="card-body bg-light">
+                                        <h6 class="mb-3">
+                                            <strong>ID TRANSACCIÓN:</strong> @item.IdTransaccion
+                                        </h6>
+
+                                        <div class="table-responsive">
+                                            <table class="table table-bordered align-middle">
+                                                <thead class="table-secondary text-center">
+                                                    <tr>
+                                                        <th>Imagen</th>
+                                                        <th>Producto</th>
+                                                        <th>Precio Unitario</th>
+                                                        <th>Cantidad</th>
+                                                        <th>Subtotal</th>
+                                                    </tr>
+                                                </thead>
+
+                                                <tbody class="bg-white text-center">
+                                                    <tr>
+                                                        <td>
+                                                            <img src="data:image/@item.oProducto.Extension;base64,@item.oProducto.Base64"
+                                                                 alt="Producto"
+                                                                 style="width: 120px; height: 120px; object-fit: cover;"
+                                                                 class="rounded" />
+                                                        </td>
+                                                        <td>@item.oProducto.Nombre</td>
+                                                        <td>$ @item.oProducto.Precio USD</td>
+                                                        <td>@item.Cantidad</td>
+                                                        <td>$ @item.Total USD</td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div class="row mb-3">
+                        <div class="col-sm-12 text-center text-danger">
+                            <h3>No se encontraron compras</h3>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+
+</div>

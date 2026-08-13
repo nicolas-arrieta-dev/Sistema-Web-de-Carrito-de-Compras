@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Compilación
+[Bb]in/
+[Oo]bj/
+
+# Archivos de Visual Studio
+*.ncb
+*.sdf
+*.opensdf
+*.cachefile
+
+# Logs
+*.log
+
+# Configuración local con credenciales
+**/Web.config
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
