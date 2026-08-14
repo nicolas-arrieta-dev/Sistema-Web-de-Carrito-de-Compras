@@ -253,5 +253,6 @@ https://codigoestudiante-pe.blogspot.com/
 <img width="1908" height="777" alt="image" src="https://github.com/user-attachments/assets/f4a4c706-fc59-460b-b480-9bf45d6e2a4b" />
 
 
-<img width="1901" height="811" alt="image" src="https://github.com/user-attachments/assets/ed597808-e6c4-4a69-9daf-f2b9407ae7f6" />
+<img width="1623" height="808" alt="image" src="https://github.com/user-attachments/assets/b146983d-5cd5-45f4-b097-b44ac8f10cd0" />
+
 
