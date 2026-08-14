@@ -247,7 +247,8 @@ Código Estudiante
 https://codigoestudiante-pe.blogspot.com/
 
 
-<img width="1918" height="1036" alt="image" src="https://github.com/user-attachments/assets/2760619d-dfc2-42b6-b82d-e0e1f56ea4ca" />
+<img width="1894" height="776" alt="image" src="https://github.com/user-attachments/assets/c088d50e-e36a-4f73-b36c-b11dcb6d46e6" />
+
 
 <img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/6cc041ec-ad6c-42f5-b5f8-d385074186ae" />
 
