@@ -250,7 +250,8 @@ https://codigoestudiante-pe.blogspot.com/
 <img width="1894" height="776" alt="image" src="https://github.com/user-attachments/assets/c088d50e-e36a-4f73-b36c-b11dcb6d46e6" />
 
 
-<img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/6cc041ec-ad6c-42f5-b5f8-d385074186ae" />
+<img width="1908" height="777" alt="image" src="https://github.com/user-attachments/assets/f4a4c706-fc59-460b-b480-9bf45d6e2a4b" />
+
 
 <img width="1901" height="811" alt="image" src="https://github.com/user-attachments/assets/ed597808-e6c4-4a69-9daf-f2b9407ae7f6" />
 
