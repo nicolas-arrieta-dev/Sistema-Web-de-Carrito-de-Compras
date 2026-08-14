@@ -245,3 +245,11 @@ Este proyecto fue desarrollado tomando como referencia material educativo y recu
 Código Estudiante
 
 https://codigoestudiante-pe.blogspot.com/
+
+
+<img width="1918" height="1036" alt="image" src="https://github.com/user-attachments/assets/2760619d-dfc2-42b6-b82d-e0e1f56ea4ca" />
+
+<img width="1919" height="1038" alt="image" src="https://github.com/user-attachments/assets/6cc041ec-ad6c-42f5-b5f8-d385074186ae" />
+
+<img width="1901" height="811" alt="image" src="https://github.com/user-attachments/assets/ed597808-e6c4-4a69-9daf-f2b9407ae7f6" />
+
